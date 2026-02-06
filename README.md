@@ -89,7 +89,7 @@ README.md
 
 Clone the repository:
 
-git clone https://github.com/your-username/sadaqah.git  
+git clone https://github.com/ABDULHALEEL/sadaqah.git  
 cd sadaqah  
 
 Install dependencies:
@@ -105,8 +105,6 @@ or
 node app.js  
 
 Access in browser:
-
-http://localhost:3000  
 
 ---
 
